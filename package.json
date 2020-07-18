@@ -1,0 +1,20 @@
+{
+  "name": "priviobe",
+  "version": "1.0.0",
+  "description": "privio background",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Merola",
+  "license": "ISC",
+  "dependencies": {
+    "@okta/okta-angular": "2.1.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.7",
+    "cors": "^2.8.5"
+
+  }
+}
